@@ -1,0 +1,6 @@
+nacl_sdk/
+*.diff
+pkg/
+node_modules/
+*.sublime*
+*.log
